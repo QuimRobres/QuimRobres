@@ -23,8 +23,9 @@ Now that the boot camp is over and I’ve learned a lot, I can say that I’m re
 
 
 
-<h5>Other interests:</h5> Video games, hiking, painting models, board games and war games.
-
+<h5>Other interests:</h5> 
+<p>Video games, hiking, painting models, board games and war games.<p>
+<p>:video_game::boar::art::game_die:</p>
 <br/>
 
 <hr>
