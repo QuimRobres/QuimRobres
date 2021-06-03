@@ -1,16 +1,99 @@
-### Hi there 👋
+<h2 align="center">:alien:Welcome to my Github! I'm Quim Robres:alien:</h2>
 
-<!--
-**QuimRobres/QuimRobres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/quim-robres/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:quim.robres@gmail.com?subject=Hi%20Quim,%20From%20Github"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
 
-Here are some ideas to get you started:
+<h3>About me.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curious an adaptable are words bound to me. Since I was a kid I’ve investigated and played with everything I was curious, from cooking to paint models to play with computers. Now as and adult I keep that curiosity and eager to learn.
+That’s something that is reflected in my background, with many different experiences where I could learn many things, from social abilities to manage a small business while working at Games Workshop; or team work and team leading when I worked as Sous Chef, to also planning in a big scale and work cold-minded while in stressful situations.
+Few months before the COVID-19, I’ve started to feel that I could achieve more, and wanted a change in my life, so I’ve decided to work with one of my other passions: technology. I’ve started to learn JavaScript, HTML and CSS by my own to be prepared for the next challenge, the web-development Boot Camp at Ironhack.
+Now that the boot camp is over and I’ve learned a lot, I can say that I’m ready for this new adventure, looking for a nice and exciting Job opportunity as web developer. And as always, I want to learn something new and improve myself every day.
+
+
+
+<h4>My firsts objectives:</h4> 
+
+\- Master all learned on the bootcamp and learn new languages and technologies.
+
+\- Find a hob where I can grow and learn, with teammates that teach me (and in time, I teach them).
+
+
+
+<h5>Other interests:</h5> Video games, hiking, painting models, board games and war games.
+
+<br/>
+
+<hr>
+
+
+
+<h3 align="center">Language, Frameworks, Tools & Abilities</h3>
+
+
+
+<p align="center">
+
+  <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
+
+  <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
+
+  <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
+
+  <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
+
+  <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
+
+  <img alt='Canvas' src='https://img.shields.io/badge/-Canvas-E05F2C?logo=canvas&logoColor=white&style=plastic' />
+
+  <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
+
+  <img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=plastic' />
+
+  <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
+
+  <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
+
+  <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
+
+  <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
+
+  <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
+
+  <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
+
+  <img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
+
+  <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&style=plastic' />
+
+  <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
+
+</p>
+
+<hr>
+
+
+
+<p align=center>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+
+​    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=quimrobres&show_icons=true&theme=material-palenight">
+
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quimrobres&theme=material-palenight&langs_count=8&layout=compact" />
+
+  </a>
+
+</p>
+
+
+
+[linkedin]: https://www.linkedin.com/in/quim-robres/
+[Gmail]: mailto:quim.robres@gmail.com
