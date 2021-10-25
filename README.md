@@ -8,10 +8,9 @@
 
 <h3>About me.</h3>
 
-Curious an adaptable are words bound to me. Since I was a kid I’ve investigated and played with everything I was curious, from cooking to paint models to play with computers. Now as and adult I keep that curiosity and eager to learn.
-That’s something that is reflected in my background, with many different experiences where I could learn many things, from social abilities to manage a small business while working at Games Workshop; or team work and team leading when I worked as Sous Chef, to also planning in a big scale and work cold-minded while in stressful situations.
-Few months before the COVID-19, I’ve started to feel that I could achieve more, and wanted a change in my life, so I’ve decided to work with one of my other passions: technology. I’ve started to learn JavaScript, HTML and CSS by my own to be prepared for the next challenge, the web-development Boot Camp at Ironhack.
-Now that the boot camp is over and I’ve learned a lot, I can say that I’m ready for this new adventure, looking for a nice and exciting Job opportunity as web developer. And as always, I want to learn something new and improve myself every day.
+Curious and adaptable are words bound to me. Since I was a kid, I’ve investigated and played with everything I was curious, from computers to paint models to cooking. Now as an adult, I keep eager to learn and with the same curiosity.
+That’s something that is reflected in my background, with many experiences where I could learn many things, from manage a small business while working at Games Workshop to social abilities; or team work and team leading when working as Sous Chef, to also planning in a big scale and work cold-minded while in stressful situations.
+Now I’m ready for this new adventure; looking for a nice and exciting Job opportunity as web developer. And as always, I want to learn something new and improve myself every day.
 
 
 
